@@ -28,3 +28,5 @@ console.log("hi");
 console.log("testing");
 console.groupEnd();
 // console group end
+
+console.trace("I'm here") 
